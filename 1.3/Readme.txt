@@ -1,4 +1,4 @@
-Thanks for getting EliBackup from EliServices! (Readme 1.2)
+Thanks for getting EliBackup from EliServices! (Readme 1.3)
 The following points are important for you, if you want to customize EliBackup. Please read them attentively.
 
 -All configuration data is written in .\elibackup.config
