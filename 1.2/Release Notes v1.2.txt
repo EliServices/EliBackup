@@ -1,1 +1,0 @@
--.config reading system is now better
