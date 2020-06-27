@@ -1,3 +1,0 @@
--It is now possible to copy folders
--Added Release Note files
--Added Basic Installer
